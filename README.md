@@ -1,2 +1,2 @@
 # SwiftPractice
-//Swift联系以及实现部分算法
+//Swift练习以及实现部分算法
